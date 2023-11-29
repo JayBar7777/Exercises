@@ -1,2 +1,2 @@
 # Exercises
-Cpp_exer
+Cpp_exercise
